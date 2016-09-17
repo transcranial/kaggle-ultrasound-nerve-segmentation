@@ -1,0 +1,7 @@
+data/
+models/
+processed/
+submissions/
+*.log
+.ipynb_checkpoints/
+__pycache__/
